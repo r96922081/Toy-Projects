@@ -4,13 +4,14 @@
 
 # Countdown (C#, WPF)
 
-![enter image description here](https://r96922081.github.io/images/countdown1.png)
+![](https://r96922081.github.io/images/countdown1.png)
 
 # Cron (Java)
 
-
-
-
+Usage: 
+![](https://r96922081.github.io/images/cron1.png)
+Result:
+![](https://r96922081.github.io/images/cron2.png)
 
 
 # PJ3
