@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\github\Toy-Projects\CountDown\CountDown\obj\Debug\
+D:\github\Toy-Projects\CountDown\CountDown\obj\Release\
 CountDown
 none
 false
-DEBUG;TRACE
+TRACE
 D:\github\Toy-Projects\CountDown\CountDown\App.xaml
 3814834992
 
-8504761652
+7-1708117026
 13-1310406943
 MainWindow.xaml;SetSubject.xaml;SetTime.xaml;
 
-True
+False
 
